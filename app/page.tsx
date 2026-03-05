@@ -3,6 +3,7 @@ import AboutVIPSection from "@/Components/Sections/AboutVipSection";
 import Hero from "@/Components/Sections/hero";
 import ProjectSection from "@/Components/Sections/ProjectSection";
 import ServicesVIPSection from "@/Components/Sections/ServicesVIPSection";
+import VIPFooter from "@/Components/Sections/VIPFOOTER";
 import { div } from "framer-motion/client";
 import Image from "next/image";
 
@@ -14,6 +15,7 @@ export default function Home() {
       <ProjectSection />
       <AboutVIPSection />
       <ServicesVIPSection />
+      <VIPFooter />
     </div>
   );
 }
