@@ -90,7 +90,6 @@ export default function VIPNavbar() {
                 </button>
             </div>
 
-            {/* --- Mobile Menu Overlay --- */}
             <AnimatePresence>
                 {mobileMenuOpen && (
                     <motion.div
