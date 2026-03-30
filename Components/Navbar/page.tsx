@@ -50,7 +50,6 @@ export default function VIPNavbar() {
                     </a>
                 </motion.div>
 
-                {/* --- Desktop Navigation --- */}
                 <div className="hidden md:flex items-center gap-10">
                     <div className="flex items-center gap-8">
                         {navLinks.map((item) => (
