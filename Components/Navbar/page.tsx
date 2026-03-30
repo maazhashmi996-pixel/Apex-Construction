@@ -67,7 +67,6 @@ export default function VIPNavbar() {
                         ))}
                     </div>
 
-                    {/* Premium Call Action */}
                     <div className="h-8 w-px bg-slate-300/30 mx-2" />
 
                     <button className="relative overflow-hidden group bg-slate-900 text-white px-8 py-3.5 rounded-full font-black text-[11px] uppercase tracking-[0.15em] transition-all hover:shadow-[0_15px_30px_-10px_rgba(193,146,6,0.4)]">
